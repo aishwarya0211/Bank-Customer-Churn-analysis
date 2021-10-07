@@ -9,7 +9,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/88655094/136353476-167bb6fe-2058-47a3-81d2-5a2504fc1635.png)
+
 
 
 
@@ -25,6 +25,10 @@
 # Continous Features
 
 ![image](https://user-images.githubusercontent.com/88655094/136353624-f40dd275-ec0b-44f2-a673-d7ef6e51b7e4.png)
+
+
+
+![image](https://user-images.githubusercontent.com/88655094/136353476-167bb6fe-2058-47a3-81d2-5a2504fc1635.png)
 
 
 # Target Variable
@@ -46,3 +50,8 @@
 ![image](https://user-images.githubusercontent.com/88655094/136353880-f47bd4a4-109a-4e32-9225-10aa1f345731.png)
 
 
+# COCLUSION
+
+1. Target Column Data is imbalnce in nature.
+2. Smote Over Sampling Method is applied to get balance in data.
+3. Random Forest is giving best Result of prediction which Customer left the bank.
