@@ -1,0 +1,2 @@
+# Bank-Customer-Churn-analysis
+1. Customer Churn is very important for every buisness. In banking sector, loosing a cusotmer is a crucial one, which defenitely affect the turn over of the branch. 2. The problem statement is to find the factors affecting the customer churn. 3. If the customer is closing the bank account , what will be the reasons. 4. Model have to build for analyisng if the customer discontinues the bank.
